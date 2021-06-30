@@ -9,3 +9,6 @@
 - How have the attributes of songs on Spotify's Top 2000 changed over time?
 
 This repository contains my updated storyboards, poster, slides, Jupyter notebook, and “Spotify: All Time Top 2000 Mega Dataset”, a dataset taken from Kaggle which contains audio statistics and attributes for Spotify's top songs. The dataset is contained within a csv file and includes data on songs released from 1959 to 2019. The data set breaks down each song by the following attributes: genre, year, BPM, danceability, energy, loudness, liveness, valence, length, acousticness, speechiness, and popularity. I will be iterating on my storyboard and Jupyter notebook each week with feedback from my peers and course instructors. 
+
+Slides: https://docs.google.com/presentation/d/18E8Pr2RZCReb6DAq_4Fu68MVCJHfwzVMHza6LwRh9o8/edit?usp=sharing
+Video Tutorial: https://drive.google.com/file/d/1MgXBP9la50XPKcsi4yc5OIEctg0xPYI9/view?usp=sharing
